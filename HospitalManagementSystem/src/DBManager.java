@@ -5,7 +5,7 @@ import java.util.List;
 public class DBManager {
     private static final String URL = "jdbc:mysql://localhost:3306/hospital_management";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "arkquez050406";
+    private static final String PASSWORD = "root";
 
     public static Connection getConnection() {
         try {
@@ -578,4 +578,5 @@ public class DBManager {
             return false;
         }
     }
+
 }
