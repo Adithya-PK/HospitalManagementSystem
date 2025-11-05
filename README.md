@@ -20,6 +20,10 @@ A desktop-based Java application designed to simplify and automate hospital data
 
 ## 📸 Screenshots
 
+| Login Page                      | Dashboard                          |
+| ------------------------------- | ---------------------------------- |
+| ![Login Page](Screenshots/login.png) | ![Dashboard](Screenshots/dashboard.png) |
+
 ## 📦 How to Run
 
  1. Open project in any Java IDE (e.g., VS Code, IntelliJ, or Eclipse)
