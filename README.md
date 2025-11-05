@@ -20,7 +20,7 @@ A desktop-based Java application designed to simplify and automate hospital data
 
 ## 📸 Screenshots
 
-📦 How to Run
+## 📦 How to Run
 
  1. Open project in any Java IDE (e.g., VS Code, IntelliJ, or Eclipse)
 
